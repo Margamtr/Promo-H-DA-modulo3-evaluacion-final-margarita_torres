@@ -25,6 +25,7 @@ El ejercicio a revolver fue el siguiente:
 EJERCICIO:
 
 - Fase 1: Exploración y Limpieza
+  
    1 Exploración Inicial:
       
    - Realiza una exploración inicial de los datos para identificar posibles problemas, 
