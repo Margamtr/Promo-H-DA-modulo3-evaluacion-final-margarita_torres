@@ -25,7 +25,7 @@ El ejercicio a revolver fue el siguiente:
 EJERCICIO:
 
 - Fase 1: Exploración y Limpieza
-   1. Exploración Inicial:
+   1 Exploración Inicial:
       
    - Realiza una exploración inicial de los datos para identificar posibles problemas, 
      como valores nulos, atípicos o datos faltantes en las columnas relevantes.
@@ -34,7 +34,7 @@ EJERCICIO:
      involucradas.
    - Une los dos conjuntos de datos de la forma más eficiente.
      
-   3. Limpieza de Datos:
+   2 Limpieza de Datos:
       
    - Elimina o trata los valores nulos, si los hay, en las columnas clave para asegurar 
      que los datos estén completos.
@@ -48,18 +48,18 @@ EJERCICIO:
    Usando las herramientas de visualización que has aprendido durante este módulo, contesta a las 
    siguientes gráficas usando la mejor gráfica que consideres:
   
-    5. ¿Cómo se distribuye la cantidad de vuelos reservados por mes durante el año?
+    3 ¿Cómo se distribuye la cantidad de vuelos reservados por mes durante el año?
   
-    6. ¿Existe una relación entre la distancia de los vuelos y los puntos acumulados por los 
+    4 ¿Existe una relación entre la distancia de los vuelos y los puntos acumulados por los 
        clientes?
-    7. ¿Cuál es la distribución de los clientes por provincia o estado?
+    5 ¿Cuál es la distribución de los clientes por provincia o estado?
   
-    8. ¿Cómo se compara el salario promedio entre los diferentes niveles educativos de los 
+    6 ¿Cómo se compara el salario promedio entre los diferentes niveles educativos de los 
        clientes?
   
-    9. ¿Cuál es la proporción de clientes con diferentes tipos de tarjetas de fidelidad?
+    7 ¿Cuál es la proporción de clientes con diferentes tipos de tarjetas de fidelidad?
   
-    10. ¿Cómo se distribuyen los clientes según su estado civil y género?- Fase 3: Evaluación de Diferencias en Reservas de Vuelos por Nivel Educativo
+    8 ¿Cómo se distribuyen los clientes según su estado civil y género?- Fase 3: Evaluación de Diferencias en Reservas de Vuelos por Nivel Educativo
 
 
 - Objetivo del Ejercicio:
@@ -67,24 +67,19 @@ EJERCICIO:
   significativas en el número de vuelos reservados según el nivel educativo de los clientes. Para 
   ello, los pasos que deberas seguir son:
 
-    11. Preparación de Datos:
+    9 Preparación de Datos:
      - Filtra el conjunto de datos para incluir únicamente las columnas relevantes: 
       'Flights Booked' y 'Education'.
     
-    12. Análisis Descriptivo:
+    10 Análisis Descriptivo:
      - Agrupa los datos por nivel educativo y calcula estadísticas descriptivas básicas 
       (como el promedio, la desviación estandar, los percentiles) del número de vuelos 
       reservados para cada grupo.
     
-     13. Prueba Estadística:
+     11 Prueba Estadística:
      - Realiza una prueba de A/B testing para determinar si existe una diferencia 
       significativa en el número de vuelos reservados entre los diferentes niveles 
       educativos.
 
 ---
-  25. *BONUS*: Encuentra el título de las películas que son comedias y tienen una duración mayor a 180 
-      minutos en la tabla film.
-    
-  26. *BONUS*: Encuentra todos los actores que han actuado juntos en al menos una película. La 
-      consulta debe mostrar el nombre y apellido de los actores y el número de películas en las que 
-      han actuado juntos.
+
