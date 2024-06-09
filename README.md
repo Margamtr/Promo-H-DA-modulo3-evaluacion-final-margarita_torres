@@ -18,7 +18,7 @@ EN ESTE REPOSITORIO:
 ---
   En este repositorio se encuentra:
   
-  -Los CSV, con los datos a trabajar: __Customer Loyalty History.csv__ y __Customer Flight Activity.csv__
+  -Los CSV, con los datos a trabajar (Se encuentran en un archivo comprimido): __Customer Loyalty History.csv__ y __Customer Flight Activity.csv__
   
   -Un CSV, con el resultado de la limpieza de los datos: __customer_loyalty_history.csv__
   
