@@ -1,0 +1,30 @@
+
+
+Diccionario customer_flights_loyalty_history:
+============================================
+
+
+ 0   Loyalty Number               -NUMERO DE SOCIO
+ 1   Year                         -AÑO DEL VUELO 
+ 2   Month                        -MES DEL VUELO
+ 3   Flights Booked               -VUELOS RESERVADOS  
+ 4   Flights with Companions      -VUELOS CON ACOMPAÑANTES
+ 5   Total Flights                -VUELOS TOTALES REALIZADOS  
+ 6   Distance                     -DISTANCIA RECORRIDA   
+ 7   Points Accumulated           -PUNTOS ACUMULADOS
+ 8   Points Redeemed              -PUNTOS CANJEADOS 
+ 9   Dollar Cost Points Redeemed  -COSTE DE LOS PUNTOS CANJEADOS 
+ 10  Country                      -PAIS DE PORCEDENCIA DEL CLIENTE 
+ 11  Province                     -PROVINCIA  DE PORCEDENCIA DEL CLIENTE
+ 12  City                         -CIUDAD  DE PORCEDENCIA DEL CLIENTE 
+ 13  Postal Code                  -CODIGO POSTAL DEL CLIENTE
+ 14  Gender                       -GENERO DEL CLIENTE 
+ 15  Education                    -EDUCACION DEL CLIENTE 
+ 16  Salary                       -SALARIO CLIENTE
+ 17  Marital Status               -ESTADO CIVIL 
+ 18  Loyalty Card                 -TIPO DE TARJETA SOCIO 
+ 19  CLV                          -CUSTOMER LIFETIME VALUE. CONSUMO DEL CLIENTE DURANTE LA RELACION COMERCIAL
+ 20  Enrollment Type              -TIPO DE INSCRIPCION 
+ 21  Enrollment Year              -AÑO INSCRIPCION  
+ 22  Enrollment Month             -MES INSCRIPCION  
+ 23  Cancellation Year            -AÑO CANCELACION
