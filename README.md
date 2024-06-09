@@ -18,9 +18,13 @@ EN ESTE REPOSITORIO:
 ---
   En este repositorio se encuentra:
   -Los CSV, con los datos a trabajar:__Customer Loyalty History.csv__ y __Customer Flight Activity.csv__
+  
   -Un CSV, con el resultado de la limpieza de los datos: __customer_loyalty_history.csv__
+  
   -Un documento.txt, con el diccionario de las difernetes columnas que nos vamos a encontrar: __diccionario_cutomer_flight.txt__
+  
   -El documento .ipynb, donde se encuentra todo el código y conclusiones obtenidas.
+  
   -Un documento pdf con el enunciado del ejercicio.
   
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
